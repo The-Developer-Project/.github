@@ -1,6 +1,6 @@
 # THE DEVELOPER PROJECT
 
-## The Developer Project fosters Roblox Studio creation and design of all skill levels. Our server offers 
+## The Developer Project fosters Roblox Studio creation and design of all skill levels.
 
 * A fun community to showcase your work and meet new people
 
